@@ -1,0 +1,13 @@
+# software-tools
+
+
+Browser: Vivaldi
+
+Vivaldi is my browser of choice. I wanted to stay away from chrome and safari because i was looking for something that is less tied to large corporations. I looked at a lot of the browsers (for some reason I didn't look at brave).
+
+I like Vivaldi because I can put tabs on the left and bookmarks on the bottom and the view is much cleaner for me.
+
+Code Editor: VS Code
+
+I use this for two reasons. First and foremost is that everyone else seems to and this way I don't introduce an unintended variable. Secondly, it's a good tool.
+

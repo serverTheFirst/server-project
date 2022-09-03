@@ -1,3 +1,5 @@
 # github
 
+github, simply put, is a service that stores files in a way that computer programmers need them to be stored in order to collaborate on large pieces of software.
+
 

@@ -1,3 +1,5 @@
 # sendgrid
 
+sendgrid is a free (for users at our volumes) SMTP service. SMTP is used to send automated emails from different services and it is nice to not have to tie that to your personal email address.
+
 
